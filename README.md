@@ -1,12 +1,20 @@
-Rhombix Personal Portfolio
+# 🌟 Rhombix Personal Portfolio
 
 Welcome to my personal portfolio website! This project is a modern, sleek, and fully responsive digital resume designed to showcase my frontend development skills, core expertise, and professional journey.
 
- **[Live Demo Available Here](https://usmanmuhammadtech-stack.github.io/Rhombix-Personal-Portfolio/)**
+🚀 **[Live Demo Available Here](https://usmanmuhammadtech-stack.github.io/Rhombix-Personal-Portfolio/)**
 
--
+---
 
-🛠️ Core Expertise & Tech Stack
+## 📸 Visual Preview
+
+| Desktop View | Mobile View |
+|---|---|
+| <img src="screenshots/Desktop_view.png" width="100%" alt="Desktop Preview"> | <img src="screenshots/mobile_view.png" width="100%" alt="Mobile Preview"> |
+
+---
+
+## 🛠️ Core Expertise & Tech Stack
 
 This portfolio was built entirely from scratch using clean, semantic, and modern web technologies to ensure pixel-perfect design and optimal performance.
 
@@ -17,7 +25,7 @@ This portfolio was built entirely from scratch using clean, semantic, and modern
 
 ---
 
-✨ Key Architectural Features
+## ✨ Key Architectural Features
 
 - **📱 Full Responsiveness:** Seamlessly adapts to desktops, laptops, tablets, and smartphone screens.
 - **🎨 Interactive UX:** Includes dynamic navigation, smooth transitions, and engaging animations.
@@ -26,7 +34,7 @@ This portfolio was built entirely from scratch using clean, semantic, and modern
 
 ---
 
-👨‍💻 About the Developer
+## 👨‍💻 About the Developer
 
 I am a passionate Frontend Developer focused on crafting beautiful, high-performance, and user-centric web applications. This portfolio serves as a live testament to my commitment to clean code and modern web design standards.
 
